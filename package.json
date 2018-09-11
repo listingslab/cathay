@@ -1,0 +1,15 @@
+{
+  "name": "cathay",
+  "version": "0.0.1",
+  "repository": "https://bitbucket.org/chris_at_boral/cathay",
+  "author": "listingslab",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.4.0",
+    "gulp-color": "^0.0.2",
+    "gulp-file": "^0.4.0",
+    "gulp-sequence": "^1.0.0",
+    "gulp-shell": "^0.6.5"
+  }
+}
